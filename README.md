@@ -54,6 +54,7 @@
 + mini-esbuild
 + mini-react
 + mini-react-hooks
++ mini-next
 
 ## 诗词小站重构
 
