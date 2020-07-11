@@ -68,6 +68,9 @@
 
 ## mini react
 
+## 如何发布一个 package
+
+## 新人如何熟悉项目
 
 ## service mesh
 
